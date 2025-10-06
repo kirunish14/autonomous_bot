@@ -1,0 +1,52 @@
+[0.009s] Invoking command in '/home/kirunish/autonomous_bot/build/autonomous_car': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kirunish/ros2_ws/install/turtlesim_catch_them_all:/home/kirunish/ros2_ws/install/my_py_pkg:/home/kirunish/ros2_ws/install/actions_py:/opt/ros/humble /usr/bin/cmake --build /home/kirunish/autonomous_bot/build/autonomous_car -- -j16 -l16
+[0.041s] Invoked command in '/home/kirunish/autonomous_bot/build/autonomous_car' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kirunish/ros2_ws/install/turtlesim_catch_them_all:/home/kirunish/ros2_ws/install/my_py_pkg:/home/kirunish/ros2_ws/install/actions_py:/opt/ros/humble /usr/bin/cmake --build /home/kirunish/autonomous_bot/build/autonomous_car -- -j16 -l16
+[0.049s] Invoking command in '/home/kirunish/autonomous_bot/build/autonomous_car': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kirunish/ros2_ws/install/turtlesim_catch_them_all:/home/kirunish/ros2_ws/install/my_py_pkg:/home/kirunish/ros2_ws/install/actions_py:/opt/ros/humble /usr/bin/cmake --install /home/kirunish/autonomous_bot/build/autonomous_car
+[0.055s] -- Install configuration: ""
+[0.055s] -- Execute custom install script
+[0.055s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/config/drive_bot.rviz
+[0.055s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/config/empty.yaml
+[0.055s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/config/gazebo_params.yaml
+[0.055s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/config/main.rviz
+[0.055s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/config/map.rviz
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/config/mapper_params_online_async.yaml
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/config/my_controllers.yaml
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/config/nav2_params.yaml
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/config/twist_mux.yaml
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/config/view_bot.rviz
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/description/camera.xacro
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/description/depth_camera.xacro
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/description/face.xacro
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/description/gazebo_control.xacro
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/description/inertial_macros.xacro
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/description/lidar.xacro
+[0.056s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/description/robot.urdf.xacro
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/description/robot_core.xacro
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/description/ros2_control.xacro
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/launch/camera.launch.py
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/launch/joystick.launch.py
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/launch/launch_robot.launch.py
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/launch/launch_sim.launch.py
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/launch/localization_launch.py
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/launch/navigation_launch.py
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/launch/online_async_launch.py
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/launch/rplidar.launch.py
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/launch/rsp.launch.py
+[0.057s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/launch/test_gazebo.launch.py
+[0.058s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/worlds/empty.world
+[0.058s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/worlds/obstacles.world
+[0.058s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/ament_index/resource_index/package_run_dependencies/autonomous_car
+[0.058s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/ament_index/resource_index/parent_prefix_path/autonomous_car
+[0.058s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/environment/ament_prefix_path.sh
+[0.058s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/environment/ament_prefix_path.dsv
+[0.058s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/environment/path.sh
+[0.058s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/environment/path.dsv
+[0.059s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/local_setup.bash
+[0.059s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/local_setup.sh
+[0.059s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/local_setup.zsh
+[0.059s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/local_setup.dsv
+[0.059s] -- Symlinking: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/package.dsv
+[0.066s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/ament_index/resource_index/packages/autonomous_car
+[0.066s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/cmake/autonomous_carConfig.cmake
+[0.066s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/cmake/autonomous_carConfig-version.cmake
+[0.066s] -- Up-to-date symlink: /home/kirunish/autonomous_bot/install/autonomous_car/share/autonomous_car/package.xml
+[0.068s] Invoked command in '/home/kirunish/autonomous_bot/build/autonomous_car' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kirunish/ros2_ws/install/turtlesim_catch_them_all:/home/kirunish/ros2_ws/install/my_py_pkg:/home/kirunish/ros2_ws/install/actions_py:/opt/ros/humble /usr/bin/cmake --install /home/kirunish/autonomous_bot/build/autonomous_car

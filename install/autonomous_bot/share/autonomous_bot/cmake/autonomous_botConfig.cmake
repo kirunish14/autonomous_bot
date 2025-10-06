@@ -1,0 +1,1 @@
+/home/kirunish/autonomous_bot/build/autonomous_bot/ament_cmake_core/autonomous_botConfig.cmake

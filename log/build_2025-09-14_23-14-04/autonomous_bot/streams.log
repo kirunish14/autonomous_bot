@@ -1,0 +1,29 @@
+[0.008s] Invoking command in '/home/kirunish/autonomous_bot/build/autonomous_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kirunish/ros2_ws/install/turtlesim_catch_them_all:/home/kirunish/ros2_ws/install/my_py_pkg:/home/kirunish/ros2_ws/install/actions_py:/opt/ros/humble /usr/bin/cmake /home/kirunish/autonomous_bot/src/autonomous_car -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kirunish/autonomous_bot/install/autonomous_bot
+[0.051s] -- The C compiler identification is GNU 11.4.0
+[0.093s] -- The CXX compiler identification is GNU 11.4.0
+[0.099s] -- Detecting C compiler ABI info
+[0.155s] -- Detecting C compiler ABI info - done
+[0.160s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.160s] -- Detecting C compile features
+[0.160s] -- Detecting C compile features - done
+[0.163s] -- Detecting CXX compiler ABI info
+[0.225s] -- Detecting CXX compiler ABI info - done
+[0.230s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.231s] -- Detecting CXX compile features
+[0.231s] -- Detecting CXX compile features - done
+[0.234s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.351s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.397s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.431s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.476s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:53 (message):
+[0.476s]   ament_package_xml() package name 'autonomous_bot' in '/package.xml' does
+[0.476s]   not match current PROJECT_NAME 'autonomous_car'.  You must call project()
+[0.476s]   with the same package name before.
+[0.476s] Call Stack (most recent call first):
+[0.476s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.476s]   CMakeLists.txt:32 (ament_lint_auto_find_test_dependencies)
+[0.476s] 
+[0.477s] [0m
+[0.477s] -- Configuring incomplete, errors occurred!
+[0.477s] See also "/home/kirunish/autonomous_bot/build/autonomous_bot/CMakeFiles/CMakeOutput.log".
+[0.480s] Invoked command in '/home/kirunish/autonomous_bot/build/autonomous_bot' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kirunish/ros2_ws/install/turtlesim_catch_them_all:/home/kirunish/ros2_ws/install/my_py_pkg:/home/kirunish/ros2_ws/install/actions_py:/opt/ros/humble /usr/bin/cmake /home/kirunish/autonomous_bot/src/autonomous_car -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kirunish/autonomous_bot/install/autonomous_bot

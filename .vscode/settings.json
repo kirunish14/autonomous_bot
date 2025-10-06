@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kirunish/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages",
+        "/home/kirunish/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/kirunish/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/kirunish/ros2_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/kirunish/ros2_ws/install/actions.py/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/kirunish/carla_packed_linux/PythonAPI/carla/dist/your_carla_egg_file.egg"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kirunish/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages",
+        "/home/kirunish/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/kirunish/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/kirunish/ros2_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/kirunish/ros2_ws/install/actions.py/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/kirunish/carla_packed_linux/PythonAPI/carla/dist/your_carla_egg_file.egg"
+    ]
+}

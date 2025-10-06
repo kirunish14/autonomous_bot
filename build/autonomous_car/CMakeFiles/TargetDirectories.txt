@@ -1,0 +1,9 @@
+/home/kirunish/autonomous_bot/build/autonomous_car/CMakeFiles/uninstall.dir
+/home/kirunish/autonomous_bot/build/autonomous_car/CMakeFiles/autonomous_car_uninstall.dir
+/home/kirunish/autonomous_bot/build/autonomous_car/CMakeFiles/test.dir
+/home/kirunish/autonomous_bot/build/autonomous_car/CMakeFiles/edit_cache.dir
+/home/kirunish/autonomous_bot/build/autonomous_car/CMakeFiles/rebuild_cache.dir
+/home/kirunish/autonomous_bot/build/autonomous_car/CMakeFiles/list_install_components.dir
+/home/kirunish/autonomous_bot/build/autonomous_car/CMakeFiles/install.dir
+/home/kirunish/autonomous_bot/build/autonomous_car/CMakeFiles/install/local.dir
+/home/kirunish/autonomous_bot/build/autonomous_car/CMakeFiles/install/strip.dir
